@@ -1,0 +1,9 @@
+- [ ] Classes
+- [ ] Lores
+	- [ ] Liberl (start)
+	- [ ] Crossbell
+	- [ ] Erebonia
+	- [ ] Calvard ?
+- [ ] Orbment mechanics
+- [ ] Backgrounds
+- [ ] The Black Records

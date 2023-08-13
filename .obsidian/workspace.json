@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "d38f3985d22261d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cdbd46a2c8138d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0602b3ebf9479866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orbment System/Arts List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1183cbfcaa19bec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86f6c7dcc25a371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db760ed593aefd81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9993a8ef9eee3f00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e93da2698b6ea0c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "efc3b3b9a76db1db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40c15e3535024cbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4a17183c34d7ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c813b8366bb73e3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Orbment System/Arts List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af064b918c807b7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Orbment System/Arts List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c2d2adb8bc79cc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1d5e2f8c84fdda4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Orbment System/Arts List.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0602b3ebf9479866",
+  "lastOpenFiles": [
+    "Orbment System/Basic Rules.md",
+    "Orbment System/Arts List.md",
+    "res_Attachments/Liberl/Rolent/Rolent_(FC).png",
+    "The Black Records/Faction - Ouroboros.md",
+    "The Black Records/Faction - Gnomes.md",
+    "The Black Records/Book 3 - Erebonia.md",
+    "The Black Records/Book 2 - Crossbell.md",
+    "The Black Records/Book 1 - Liberl.md",
+    "Scenarios/Larcin de haut-vol.md",
+    "Character Backgrounds/Birthplace/Liberl.md",
+    "Character Backgrounds/Birthplace/Crossbell.md",
+    "Character Backgrounds/Birthplace/Arteria.md",
+    "Character Backgrounds/Birthplace/Calvard.md",
+    "Character Backgrounds/Birthplace/Erebonia.md"
+  ]
+}
