@@ -7,6 +7,8 @@ It is possible to fill its slots with elemental quartz, refined from sepith by o
 
 - Manifestation of Orbal Arts : by following precise patterns on the orbment's power lines, it is possible to start manipulating the nature of the Orbal field, imbuing it with various properties, of an offensive or supporting nature. Then, by maintaining concentration, it is possible to project this shaped orbal energy into what is called an Orbal Art, essentially a replication of the magic of our far gone ancestors. Using Orbal Arts is a true feat, but provides a strong advantage during fights.
 
+It is mandatory to have it tuned to your body in order to be able to generate an Orbal Field or cast Arts. This can generally be done by a sufficiently skilled orbal engineer, where it is also possible to change the quartz you want to use.
+
 # Elemental Sepith and its influence
 
 Earth : Physical Defense

@@ -14,7 +14,10 @@ Time
 Mirage
 Space
 
+***
+Quartz List:
 
+Attack 1 (Fire) : Add your proficiency bonus to your damage rolls.
 ***
 Foundry Data Structure
 
