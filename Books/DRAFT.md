@@ -1,5 +1,3 @@
-# DRAFT
-
 ## Character backgrounds
 ***
 ### Profession
